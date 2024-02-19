@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to bottom, #9999ff 0%, #00ffcc 100%);
+}
+
+.main8 {
+    display: inline-block;
+}
+
+.main {
+    border: 2px solid black;
+    width: 22%;
+    height: 80vh;
+    margin: 15px;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+}
+
+.main3 {
+    border: 2px solid black;
+    width: 250px;
+    /* height: 550px; */
+    margin: 15px;
+    border-radius: 12px;
+    overflow: hidden;
+    display: inline-block;
+    /* padding: 5px; */
+}
+
+.main4 {
+    border: 2px solid black;
+    width: 22%;
+    margin: 15px;
+    border-radius: 12px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.hello {
+    width: 100%;
+}
+
+.hello2 {
+    width: 60%;
+    min-width: 30px;
+
+}
+
+.color1 {
+    background: linear-gradient(to bottom, #6699ff 0%, #ffcccc 100%);
+    font-weight: 900;
+    border-radius: 8px;
+    margin: 2px;
+    width: 120px;
+    color: black;
+    margin-left: 5px;
+}
+
+.thar {
+    padding: 5px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: underline;
+}
+
+
+.contentchild {
+    width: 18%;
+}
+
+.pic3 {
+    position: relative;
+    top: -50px;
+}
+
+.div2 {
+    display: flex;
+    margin-top: -12px;
+}
+
+.main2 {
+    margin-top: 0px;
+    margin-left: -18px;
+}
+
+.color4 {
+    color: #ffffff;
+}
+
+.div5 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pic2 {
+    position: relative;
+    left: 25%;
+    top: -9vh;
+    clip-path: circle();
+    opacity:0.8;
+}
+
+.color5 {
+    background: linear-gradient(to bottom, #66ffff 0%, #ff99ff 100%);
+}
+
+.color6 {
+    background: linear-gradient(to bottom, #99ffcc 0%, #ccccff 100%);
+}
+
+.color7 {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    opacity: 0.9;
+}
+
+.color8 {
+    background: linear-gradient(to bottom, #66ffff 0%, #ffcccc 100%);
+}
